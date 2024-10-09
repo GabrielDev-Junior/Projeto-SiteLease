@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/untitled/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/untitled/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/untitled/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sitelease/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sitelease/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/sitelease/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/untitled/target" />
     </content>
     <orderEntry type="inheritedJdk" />
